@@ -37,7 +37,7 @@ const projects = [
     title: "Sistema Comercial de Alquiler y Venta de Vehículos (Infonerc)",
     description:
       "Sistema web monolítico desarrollado con Laravel e Inertia para la gestión de alquiler y venta de vehículos. Reescritura de sistema legacy, análisis funcional, corrección de errores y optimización del rendimiento.",
-    image: "/public/images/vehiculos.png",
+    image: "/images/vehiculos.png",
     techs: [
       <FaLaravel key="l" />,
       <FaVuejs key="v" />,
@@ -49,7 +49,7 @@ const projects = [
     title: "Sistema de Gestión de Almacén (SAETA)",
     description:
       "Sistema web para la gestión de almacén. Desarrollo del módulo de salidas de mercadería con validación de stock por lotes y series, control de permisos y roles, y aprobación de solicitudes.",
-    image: "/public/images/almacen.png",
+    image: "/images/almacen.png",
     techs: [
       <FaLaravel key="l" />,
       <FaReact key="r" />,
@@ -61,7 +61,7 @@ const projects = [
     title: "Sistema de Gestión Hotelera (Proyecto Universitario)",
     description:
       "Sistema web para la gestión de habitaciones, reservas y huéspedes, con administración de roles y permisos. Arquitectura API REST con autenticación y autorización segura.",
-    image: "/public/images/hotel.png",
+    image: "/images/hotel.png",
     techs: [
       <FaAngular key="a" />,
       <SiSpringboot key="s" />,
@@ -73,7 +73,7 @@ const projects = [
     title: "Aplicación Agrícola Offline",
     description:
       "Aplicación móvil para productores agrícolas con funcionamiento offline y sincronización en la nube. Registro de actividades productivas y control de información en campo.",
-    image: "/public/images/cacao.png",
+    image: "/images/cacao.png",
     techs: [
       <SiIonic key="i" />,
       <SiFirebase key="f" />
@@ -84,7 +84,7 @@ const projects = [
     title: "Reconocimiento de Monedas con Visión Artificial",
     description:
       "Proyecto de reconocimiento de monedas mediante procesamiento de imágenes, utilizando técnicas de visión artificial para detección, clasificación y validación de objetos.",
-    image: "/public/images/monedas.png",
+    image: "/images/monedas.png",
     techs: [
       <FaPython key="p" />,
       <SiOpencv key="o" />,
@@ -96,7 +96,7 @@ const projects = [
     title: "Sistema de Seguridad y Control de Accesos (Proyecto Universitario)",
     description:
       "Sistema web orientado a la implementación de seguridad y control de accesos a nivel lógico, con gestión de usuarios, roles y autenticación segura basada en tokens.",
-    image: "/public/images/seguridad.png",
+    image: "/images/seguridad.png",
     techs: [
       <SiSpringboot key="s" />,
       <FaAngular key="a" />,
@@ -148,7 +148,7 @@ const projects = [
           <div className="hero-left">
             <div className="profile-wrapper">
               <div className="profile-photo">
-                <img src="/public/images/carnet.png" alt="Jeyson" />
+                <img src="/images/carnet.png" alt="Jeyson" />
               </div>
               <div className="profile-glow"></div>
             </div>
